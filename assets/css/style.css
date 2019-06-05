@@ -1,0 +1,19 @@
+h4{
+    font-family: 'Faster One', cursive;
+    font-size: 30pt;
+    text-align: center;
+    color: #00ff99;
+}
+
+img{
+    border-radius: 8px;
+    margin: 30px;
+}
+
+div{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}

@@ -21,6 +21,7 @@ gameReset();
     totalScore = 0;
     //will display magic number
     updateDom();
+    alert("HINT: Click the crystals to get to the magic number - GOOD LUCK!!!");
 
 
  };
